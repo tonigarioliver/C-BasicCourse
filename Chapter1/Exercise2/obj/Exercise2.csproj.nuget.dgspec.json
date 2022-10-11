@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toni\\Test\\C#BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj": {}
+    "C:\\Users\\tonie\\Desktop\\Programming\\C#\\C-BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toni\\Test\\C#BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj": {
+    "C:\\Users\\tonie\\Desktop\\Programming\\C#\\C-BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toni\\Test\\C#BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj",
+        "projectUniqueName": "C:\\Users\\tonie\\Desktop\\Programming\\C#\\C-BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj",
         "projectName": "Exercise2",
-        "projectPath": "C:\\Users\\Toni\\Test\\C#BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj",
-        "packagesPath": "C:\\Users\\Toni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toni\\Test\\C#BasicCourse\\Chapter1\\Exercise2\\obj\\",
+        "projectPath": "C:\\Users\\tonie\\Desktop\\Programming\\C#\\C-BasicCourse\\Chapter1\\Exercise2\\Exercise2.csproj",
+        "packagesPath": "C:\\Users\\tonie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonie\\Desktop\\Programming\\C#\\C-BasicCourse\\Chapter1\\Exercise2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Toni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tonie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
