@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Exercise1
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\tonie\Desktop\Programming\C#\C-BasicCourse\Chapter1\Exercise1\
+=======
+build_property.ProjectDir = c:\Users\Toni\Test\C#BasicCourse\Chapter1\Exercise1\
+>>>>>>> 3b2ce012c4054a3121affd79f3e2ed2b76da23d9
